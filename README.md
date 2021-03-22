@@ -1,6 +1,8 @@
 ![Badge for Github License](https://img.shields.io/github/license/tylerdahl123/NumberGuesser)![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/tylerdahl123/NumberGuesser?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/tylerdahl123/NumberGuesser?style=flat&logo=appveyor) 
 
 # NumberGuesser
+![Screenshot](screenshots/mainPage.png)
+
 ## Description
  ---
  
@@ -8,11 +10,11 @@
 ## Install 
 ---
 
- A basic we browser should be able to run it. 
+ Any Basic Web Browser(Internet Explorer, Chrome etc.) will be able to run this application 
 ## Contributing 
 ---
 
- Nope. 
+ No rules for contribution. I got the base of this code as a project from Codecademy.
 ## Usage 
 ---
 
@@ -20,7 +22,7 @@
 ## Tests
 ---
 
- Nope.
+ I did not run any tests. 
 ## License 
 ---
 
